@@ -1,6 +1,6 @@
 // Задание 7
 console.log("Задание 7 =>");
-let evenNotEven = [1, 2, 3, 4, null, 0, NaN, true, false];
+const evenNotEven = [1, 2, 3, 4, null, 0, NaN, true, false];
 let evenNumber = 0;
 let notEvenNumber = 0;
 let nullNumber = 0;
